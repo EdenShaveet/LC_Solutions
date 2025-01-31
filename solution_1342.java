@@ -1,5 +1,3 @@
-
-
 //Solution
 class Solution_1342{
     public int numberOfSteps(int num) {
